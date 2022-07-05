@@ -6,4 +6,4 @@ include_in_header: true
 
 # Support
 
-Please contact dev@faisalbin.com or twitter.com/appscaler for support.
+Please contact dev@faisalbin.com for support.
