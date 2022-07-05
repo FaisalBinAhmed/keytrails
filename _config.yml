@@ -33,7 +33,7 @@ youtube_username:
 features:
   - title: Visualize
     description: Visualize your keypresses in style.
-    fontawesome_icon_name: keyboard-o
+    fontawesome_icon_name: video-camera
 
   - title: Customize
     description: Personalize the look of the keys.
@@ -57,7 +57,7 @@ features:
 
   - title: Placement
     description: Position it anywhere on screen, on any screen.
-    fontawesome_icon_name: arrows
+    fontawesome_icon_name: columns
 # Feature List                            Edit, add or remove features to be presented.
 # features:
 #   - title: Realtime monitoring of your system's download and upload speed from Menubar.
